@@ -1,38 +1,28 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: "\U0001F41B Bug Report"
+about: "If something isn't working as expected \U0001F914."
+title: ""
+labels: "i: bug, i: needs triage"
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Report
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Current Behavior**
+Which broken behavior are you experiencing?
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Input Code**
+Please attach any code that could help replicate the behavior.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Environment**
+Please describe any relevant context that might be useful in order to debug the issue. Examples are language/library versions, browser, etc.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Possible Solution**
 
-**Additional context**
-Add any other context about the problem here.
+<!--- Only if you have suggestions on a fix for the bug -->
+
+**Additional context/Screenshots**
+Add any other context about the problem here. If applicable, add screenshots to help explain.
