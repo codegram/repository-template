@@ -10,17 +10,17 @@ assignees: ""
 
 ### Is your feature request related to a problem? Please describe.\*\*
 
-[help:] # A clear and concise description of what the problem is. Ex. I have an issue when [...]
+A clear and concise description of what the problem is. Ex. I have an issue when [...]
 
 ### Describe the solution you'd like\*\*
 
-[help:] # A clear and concise description of what you want to happen. Add any considered drawbacks.
+A clear and concise description of what you want to happen. Add any considered drawbacks.
 
 ### Describe alternatives you've considered\*\*
 
-[help:] # A clear and concise description of any alternative solutions or features you've considered.
+A clear and concise description of any alternative solutions or features you've considered.
 
 ### Teachability, Documentation, Adoption, Migration Strategy\*\*
 
-[help:] # If you can, explain how users will be able to use this and possibly write out a version the docs.
+If you can, explain how users will be able to use this and possibly write out a version the docs.
 Maybe a screenshot or design?
