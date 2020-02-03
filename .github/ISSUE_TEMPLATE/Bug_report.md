@@ -8,20 +8,26 @@ assignees: ""
 
 ## 🐞 Bug Report
 
-**Current Behavior**
+### Current Behavior
+
 [help:] # Which broken behavior are you experiencing?
 
-**Expected behavior**
+### Expected behavior
+
 [help:] # A clear and concise description of what you expected to happen.
 
-**Input Code**
+### Input Code
+
 [help:] # Please attach any code that could help replicate the behavior.
 
-**Environment**
+### Environment
+
 [help:] # Please describe any relevant context that might be useful in order to debug the issue. Examples are language/library versions, browser, etc.
 
-**Possible Solution**
+### Possible Solution
+
 [help:] # Only if you have suggestions on a fix for the bug
 
-**Additional context/Screenshots**
+### Additional context/Screenshots
+
 [help:] # Add any other context about the problem here. If applicable, add screenshots to help explain.
