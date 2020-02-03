@@ -8,7 +8,7 @@
 
 ## ✅ Fixes
 
-- Fixes #(issue)
+- Closes #(issue)
 - Fixes #(issue)
 
 ## ❓ Type of change
