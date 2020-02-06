@@ -17,12 +17,12 @@ Please don't be shy and add as much context as you think necessary.
 
 ## ❓ Type of change
 
-(required)
+(choose one or many and put ✅ before)
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Other: fill in the type of change
+- ⏹ Bug fix (non-breaking change which fixes an issue)
+- ⏹ New feature (non-breaking change which adds functionality)
+- ⏹ Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- ⏹ Other: fill in the type of change
 
 ## 📸 Screenshots
 
