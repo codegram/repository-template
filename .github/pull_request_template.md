@@ -15,14 +15,13 @@ Please don't be shy and add as much context as you think necessary.
 - Closes #(issue)
 - Fixes #(issue)
 
-## ❓ Type of change
+## 🕵️‍♀️ QA
 
-(choose one or many and put ✅ before)
+Before requesting a review, please make sure that:
 
-⏹ Bug fix (non-breaking change which fixes an issue)
-⏹ New feature (non-breaking change which adds functionality)
-⏹ Breaking change (fix or feature that would cause existing functionality to not work as expected)
-⏹ Other: fill in the type of change
+- [ ] Preview is working on Netlify, Heroku or similar.
+- [ ] Manually check that it's working.
+- [ ] Add documentation and tests if needed.
 
 ## 📸 Screenshots
 
